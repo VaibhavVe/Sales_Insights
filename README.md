@@ -1,4 +1,6 @@
-📊 Project Overview
+# 📊 Power BI Sales Dashboard Project
+
+## 📌 Project Overview
 This project is a Power BI dashboard built using SQL Server data. It visualizes key metrics such as revenue trends, sales volume, market-wise performance, top companies, and top products.
 
 ## 🧰 Tools Used
@@ -16,11 +18,11 @@ This project is a Power BI dashboard built using SQL Server data. It visualizes 
 
 ## 📁 Files Included
 - `SalesDashboard.pbix` – Power BI report file
-- `Data Queries and Data Queries 2` – SQL scripts for data extraction and transformation
-- `screenshot.png` – Visual snapshot of the Power BI dashboard
+- `Sales Queries.sql` & `Sales Queries 2.sql` – SQL scripts for data extraction and transformation
+- `Screenshot.png` – Visual snapshot of the Power BI dashboard
 
 ## 🔗 How to Use
-1. Run `Data Queries and Data Queries 2` in your SQL Server to generate necessary tables.
+1. Run `Sales Queries.sql` and `Sales Queries 2.sql` in your SQL Server to generate the necessary tables.
 2. Load the SQL tables into Power BI.
 3. Open `SalesDashboard.pbix` in Power BI Desktop to view or customize the dashboard.
 
@@ -28,3 +30,6 @@ This project is a Power BI dashboard built using SQL Server data. It visualizes 
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](Screenshot.png)
+
+
+
