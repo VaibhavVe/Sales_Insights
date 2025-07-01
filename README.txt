@@ -27,5 +27,4 @@ This project is a Power BI dashboard built using SQL Server data. It visualizes 
 > ⚠️ Note: Sample CSV data is not included. Use your own SQL database or data source when loading.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshot.png
-.png)
+![Dashboard Screenshot](screenshot.png)
